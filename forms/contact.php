@@ -7,7 +7,7 @@
   */
 
   // Replace amredhealthcenter@gmail.com with your real receiving email address
-  $receiving_email_address = 'amredhealthcenter@gmail.com';
+  $receiving_email_address = 'administration@amred.co.tz';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
